@@ -1,4 +1,4 @@
-<h1>3D-Human-Pose-Estimation README</h1>
+<h1>3D-Human-Pose-Estimation (README)</h1>
 
 
 <h3>The goal</h3>
