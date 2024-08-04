@@ -1,3 +1,2 @@
 **The goal** \
-The mission behind this project, is to create a simple yet efficient 2D-to-3D 
-Human Pose Conversion, fast and reliable yet also simple and convenient. 
+The mission behind this project, is to create a fast, reliable and simple 3D Pose Estimation using __one__ camera.
