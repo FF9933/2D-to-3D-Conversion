@@ -1,4 +1,7 @@
-<h1>The goal</h1>
+<h1>3D-Human-Pose-Estimation</h1>
+
+
+<h3>The goal</h3>
 
 
 The mission behind this project, is to create a fast, reliable and simple 3D Pose Estimation using __one__ camera.
