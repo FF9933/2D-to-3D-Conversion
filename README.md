@@ -1,4 +1,4 @@
-<h1>3D-Human-Pose-Conversion (README)</h1>
+<h1>2D-to-3D-Conversion (README)</h1>
 
 
 <h3>The goal</h3>
